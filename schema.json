@@ -1,0 +1,137 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "notifications": [
+        {
+          "type": "论坛",
+          "title": "第十五届 D2 前端技术论坛·无界",
+          "date": "2020.12.19",
+          "link": "http://d2forum.alibaba-inc.com/",
+          "lang": "zh"
+        },
+        {
+          "type": "招聘",
+          "title": "蚂蚁金服体验技术部招聘啦！",
+          "date": "2020.05.18",
+          "link": "https://www.yuque.com/uf44r1/wqrwsg/alwufg",
+          "lang": "zh"
+        },
+        {
+          "type": "Forum",
+          "title": "The 15th D2 Frontend Technology Forum",
+          "date": "2020.12.19",
+          "link": "http://d2forum.alibaba-inc.com/",
+          "lang": "en"
+        },
+        {
+          "type": "Jobs",
+          "title": "蚂蚁金服体验技术部招聘啦！",
+          "date": "2020.05.18",
+          "link": "https://www.yuque.com/uf44r1/wqrwsg/alwufg",
+          "lang": "en"
+        }
+      ]
+    }
+  ],
+  "required": ["notifications"],
+  "properties": {
+    "notifications": {
+      "$id": "#/properties/notifications",
+      "type": "array",
+      "title": "The notifications schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": [],
+      "examples": [
+        [
+          {
+            "type": "论坛",
+            "title": "第十五届 D2 前端技术论坛·无界",
+            "date": "2020.12.19",
+            "link": "http://d2forum.alibaba-inc.com/",
+            "lang": "zh"
+          },
+          {
+            "type": "招聘",
+            "title": "蚂蚁金服体验技术部招聘啦！",
+            "date": "2020.05.18",
+            "link": "https://www.yuque.com/uf44r1/wqrwsg/alwufg",
+            "lang": "zh"
+          }
+        ]
+      ],
+      "additionalItems": true,
+      "items": {
+        "$id": "#/properties/notifications/items",
+        "anyOf": [
+          {
+            "$id": "#/properties/notifications/items/anyOf/0",
+            "type": "object",
+            "title": "The first anyOf schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": {},
+            "examples": [
+              {
+                "type": "论坛",
+                "title": "第十五届 D2 前端技术论坛·无界",
+                "date": "2020.12.19",
+                "link": "http://d2forum.alibaba-inc.com/",
+                "lang": "zh"
+              }
+            ],
+            "required": ["type", "title", "date", "link", "lang"],
+            "properties": {
+              "type": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/type",
+                "type": "string",
+                "title": "The type schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["论坛"]
+              },
+              "title": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/title",
+                "type": "string",
+                "title": "The title schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["第十五届 D2 前端技术论坛·无界"]
+              },
+              "date": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/date",
+                "type": "string",
+                "title": "The date schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["2020.12.19"]
+              },
+              "link": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/link",
+                "type": "string",
+                "title": "The link schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["http://d2forum.alibaba-inc.com/"]
+              },
+              "lang": {
+                "$id": "#/properties/notifications/items/anyOf/0/properties/lang",
+                "type": "string",
+                "title": "The lang schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": ["zh"]
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": true
+}

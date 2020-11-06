@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schema.json
+          INPUT_JSONS: ./db.json
+
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Kermit-Xuan/auto-pull-request-merge@v2
+        if: github.event_name == 'pull_request'
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          intervalSeconds: 1
+    
+    needs: validate
