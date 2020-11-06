@@ -5,6 +5,7 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+    types: [ opened, synchronize, edited, reopened ]
 
 jobs:
   validate:
@@ -20,10 +21,11 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - uses: Kermit-Xuan/auto-pull-request-merge@v2
+      - uses: kerm1it/auto-pull-request-merge@v2
         if: github.event_name == 'pull_request'
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           intervalSeconds: 1
+          failStep: false
     
     needs: validate
