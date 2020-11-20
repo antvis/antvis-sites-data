@@ -1,32 +1,48 @@
 {
-  "notifications": [
-    {
-      "type": "论坛",
-      "title": "第十五届 D2 前端技术论坛·无界",
-      "date": "2020.12.19",
-      "link": "http://d2forum.alibaba-inc.com/",
-      "lang": "zh"
-    },
-    {
-      "type": "招聘",
-      "title": "蚂蚁金服体验技术部招聘啦！",
-      "date": "2020.05.18",
-      "link": "https://www.yuque.com/uf44r1/wqrwsg/alwufg",
-      "lang": "zh"
-    },
-    {
-      "type": "Forum",
-      "title": "The 15th D2 Frontend Technology Forum",
-      "date": "2020.12.19",
-      "link": "http://d2forum.alibaba-inc.com/",
-      "lang": "en"
-    },
-    {
-      "type": "Jobs",
-      "title": "蚂蚁金服体验技术部招聘啦！",
-      "date": "2020.05.18",
-      "link": "https://www.yuque.com/uf44r1/wqrwsg/alwufg",
-      "lang": "en"
-    }
-  ]
+    "notifications":[
+        {
+            "type":"论坛",
+            "title":"第十五届 D2 前端技术论坛·无界",
+            "date":"2020.12.19",
+            "link":"http://d2forum.alibaba-inc.com/",
+            "lang":"zh"
+        },
+        {
+            "type":"招聘",
+            "title":"蚂蚁金服体验技术部招聘啦！",
+            "date":"2020.05.18",
+            "link":"https://www.yuque.com/uf44r1/wqrwsg/alwufg",
+            "lang":"zh"
+        },
+        {
+            "type":"Forum",
+            "title":"The 15th D2 Frontend Technology Forum",
+            "date":"2020.12.19",
+            "link":"http://d2forum.alibaba-inc.com/",
+            "lang":"en"
+        },
+        {
+            "type":"Jobs",
+            "title":"蚂蚁金服体验技术部招聘啦！",
+            "date":"2020.05.18",
+            "link":"https://www.yuque.com/uf44r1/wqrwsg/alwufg",
+            "lang":"en"
+        }
+    ],
+    "showCases":[
+        {
+            "type":"X6",
+            "title":"流程图",
+            "href":"https://xxxx",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
+            "lang":"zh"
+        },
+        {
+            "type":"X6",
+            "title":"Flowchart",
+            "href":"https://xxxx",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
+            "lang":"en"
+        }
+    ]
 }
