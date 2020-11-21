@@ -141,6 +141,20 @@
       "href":"https://g2plot.antv.vision/en/examples/case/statistical-charts#line-association/",
       "screenshot":"https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
       "lang":"en"
+    },
+    {
+      "type":"F2",
+      "title":"移动端横屏图",
+      "href":"https://f2.antv.vision/zh/examples/creative/case#landscape",
+      "screenshot":"https://gw.alipayobjects.com/zos/finxbff/compress-tinypng/c794e375-f704-47ef-b264-3029e75e93d4.png",
+      "lang":"zh"
+    },
+    {
+      "type":"F2",
+      "title":"Landscape Line Chart",
+      "href":"https://f2.antv.vision/en/examples/creative/case#landscape",
+      "screenshot":"https://gw.alipayobjects.com/zos/finxbff/compress-tinypng/c794e375-f704-47ef-b264-3029e75e93d4.png",
+      "lang":"en"
     }
   ]
 }
