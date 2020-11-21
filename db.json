@@ -131,14 +131,14 @@
     {
       "type": "G2Plot",
       "title": "指标卡趋势图",
-      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#funnel/",
+      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#line-association",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
     {
       "type": "G2Plot",
       "title": "Indicator Trend Diagram",
-      "href": "https://g2plot.antv.vision/en/examples/case/statistical-scenario#funnel/",
+      "href": "https://g2plot.antv.vision/en/examples/case/statistical-scenario#line-association",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
