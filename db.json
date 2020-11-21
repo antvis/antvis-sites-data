@@ -31,74 +31,102 @@
     ],
     "showCases":[
         {
+            "type":"G6",
+            "title":"决策树",
+            "href":"https://g6.antv.vision/zh/examples/case/decisionTree#index",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*HS5gQ6yCiL4AAAAAAAAAAAAAARQnAQ",
+            "lang":"zh"
+        },
+        {
+            "type":"G6",
+            "title":"Decision Tree",
+            "href":"https://g6.antv.vision/zh/examples/case/decisionTree#index",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*HS5gQ6yCiL4AAAAAAAAAAAAAARQnAQ",
+            "lang":"en"
+        },
+        {
+            "type":"G6",
+            "title":"知识图谱树图",
+            "href":"https://g6.antv.vision/zh/examples/examples/case/knowledgeTreeGraph#index",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*2J5YTbvU5FoAAAAAAAAAAAAAARQnAQ",
+            "lang":"zh"
+        },
+        {
+            "type":"G6",
+            "title":"Knowledge Tree Graph",
+            "href":"https://g6.antv.vision/zh/examples/examples/case/knowledgeTreeGraph#index",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*2J5YTbvU5FoAAAAAAAAAAAAAARQnAQ",
+            "lang":"en"
+        },
+        {
+            "type":"G6",
+            "title":"大规模图下钻式探索",
+            "href":"https://g6.antv.vision/zh/largegraph",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*a6N9Q6q44Q0AAAAAAAAAAAAAARQnAQ",
+            "lang":"zh"
+        },
+        {
+            "type":"G6",
+            "title":"Large Graph Drilling-down Exploration",
+            "href":"https://g6.antv.vision/zh/largegraph",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*a6N9Q6q44Q0AAAAAAAAAAAAAARQnAQ",
+            "lang":"en"
+        },
+        {
             "type":"X6",
-            "title":"流程图",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
+            "title":"DAG 图",
+            "href":"https://x6.antv.vision/apps/dag/",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_43231b/afts/img/A*W9g1S7W-TOoAAAAAAAAAAAAAARQnAQ",
             "lang":"zh"
         },
         {
             "type":"X6",
-            "title":"Flowchart",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
+            "title":"DAG",
+            "href":"https://x6.antv.vision/apps/dag/",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_43231b/afts/img/A*W9g1S7W-TOoAAAAAAAAAAAAAARQnAQ",
             "lang":"en"
         },
         {
             "type":"X6",
             "title":"流程图",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
+            "href":"https://x6.antv.vision/apps/draw/",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_43231b/afts/img/A*_0vpQ5sFL-8AAAAAAAAAAAAAARQnAQ",
             "lang":"zh"
         },
         {
             "type":"X6",
-            "title":"Flowchart",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
+            "title":"Flow Chart",
+            "href":"https://x6.antv.vision/apps/draw/",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_43231b/afts/img/A*_0vpQ5sFL-8AAAAAAAAAAAAAARQnAQ",
             "lang":"en"
         },
         {
             "type":"X6",
-            "title":"流程图",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
+            "title":"ER 图",
+            "href":"https://x6.antv.vision/apps/er/",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_43231b/afts/img/A*AVRUSrPL_dEAAAAAAAAAAAAAARQnAQ",
             "lang":"zh"
         },
         {
             "type":"X6",
-            "title":"Flowchart",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
+            "title":"ER",
+            "href":"https://x6.antv.vision/apps/er/",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_43231b/afts/img/A*AVRUSrPL_dEAAAAAAAAAAAAAARQnAQ",
             "lang":"en"
-        },
-         {
-            "type":"X6",
-            "title":"流程图",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
-            "lang":"zh"
         },
         {
-            "type":"X6",
-            "title":"Flowchart",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
+            "type":"G2",
+            "title":"Monitor Line Chart",
+            "href":"https://g2.antv.vision/magi/monitor-line-chart/",
+            "screenshot":"https://gw.alipayobjects.com/zos/antfincdn/UJLaeQW8Qa/1605854684449-9a04f427-35f5-472e-b104-87d67967dcc9.png",
             "lang":"en"
-        },
-         {
-            "type":"X6",
-            "title":"流程图",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
-            "lang":"zh"
         },
         {
-            "type":"X6",
-            "title":"Flowchart",
-            "href":"https://xxxx",
-            "screenshot":"https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*zA90SJJ198AAAAAAAAAAAAAAARQnAQ",
-            "lang":"en"
-        }
+            "type":"G2",
+            "title":"监控折线图",
+            "href":"https://g2.antv.vision/magi/monitor-line-chart/",
+            "screenshot":"https://gw.alipayobjects.com/zos/antfincdn/UJLaeQW8Qa/1605854684449-9a04f427-35f5-472e-b104-87d67967dcc9.png",
+            "lang":"zh"
+        },
     ]
 }
