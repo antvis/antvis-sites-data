@@ -40,21 +40,21 @@
     {
       "type": "G6",
       "title": "Decision Tree",
-      "href": "https://g6.antv.vision/zh/examples/case/decisionTree#index",
+      "href": "https://g6.antv.vision/en/examples/case/decisionTree#index",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*8WF4SYI4b8wAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
     {
       "type": "G6",
       "title": "知识图谱树图",
-      "href": "https://g6.antv.vision/zh/examples/examples/case/knowledgeTreeGraph#index",
+      "href": "https://g6.antv.vision/zh/examples/case/knowledgeTreeGraph#index",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*2J5YTbvU5FoAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
     {
       "type": "G6",
       "title": "Knowledge Tree Graph",
-      "href": "https://g6.antv.vision/zh/examples/examples/case/knowledgeTreeGraph#index",
+      "href": "https://g6.antv.vision/en/examples/examples/case/knowledgeTreeGraph#index",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*2J5YTbvU5FoAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
@@ -68,7 +68,7 @@
     {
       "type": "G6",
       "title": "Large Graph Drilling-down Exploration",
-      "href": "https://g6.antv.vision/zh/largegraph",
+      "href": "https://g6.antv.vision/en/largegraph",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*vOj-RZTkkm4AAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
@@ -131,7 +131,7 @@
     {
       "type": "G2Plot",
       "title": "指标卡趋势图",
-      "href": "https://g2plot.antv.vision/en/examples/case/statistical-charts#line-association/",
+      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-charts#line-association/",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
@@ -152,7 +152,7 @@
        {
       "type": "G2Plot",
       "title": "Funnel Scenario",
-      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#funnel/",
+      "href": "https://g2plot.antv.vision/en/examples/case/statistical-scenario#funnel/",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*78oyRpUtBUQAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
@@ -166,7 +166,7 @@
    {
       "type": "G2",
       "title": "Index Sankey Diagram",
-      "href": "https://g2.antv.vision/zh/examples/case/sankey#sankey-card",
+      "href": "https://g2.antv.vision/en/examples/case/sankey#sankey-card",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*p3cjT4RWDEkAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
