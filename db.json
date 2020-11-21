@@ -127,6 +127,20 @@
             "href":"https://g2.antv.vision/magi/monitor-line-chart/",
             "screenshot":"https://gw.alipayobjects.com/zos/antfincdn/UJLaeQW8Qa/1605854684449-9a04f427-35f5-472e-b104-87d67967dcc9.png",
             "lang":"zh"
+        },
+        {
+            "type":"G2Plot",
+            "title":"指标卡趋势图",
+            "href":"https://g2plot.antv.vision/en/examples/case/statistical-charts#line-association/",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
+            "lang":"zh"
+        },
+         {
+            "type":"G2Plot",
+            "title":"Indicator Trend Diagram",
+            "href":"https://g2plot.antv.vision/en/examples/case/statistical-charts#line-association/",
+            "screenshot":"https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
+            "lang":"en"
         }
     ]
 }
