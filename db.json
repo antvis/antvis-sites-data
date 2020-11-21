@@ -142,6 +142,34 @@
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
+       {
+      "type": "G2Plot",
+      "title": "场景漏斗图",
+      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#funnel/",
+      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/kqkXF8ap7d/24934434-0067-4c1f-9c22-e51b27beb3f6.pn",
+      "lang": "zh"
+    },
+       {
+      "type": "G2Plot",
+      "title": "Funnel Scenario",
+      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#funnel/",
+      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/kqkXF8ap7d/24934434-0067-4c1f-9c22-e51b27beb3f6.pn",
+      "lang": "en"
+    },
+    {
+      "type": "G2",
+      "title": "指标转化桑基图",
+      "href": "https://g2.antv.vision/zh/examples/case/sankey#sankey-card",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*p3cjT4RWDEkAAAAAAAAAAAAAARQnAQ",
+      "lang": "zh"
+    },
+   {
+      "type": "G2",
+      "title": "Index Sankey Diagram",
+      "href": "https://g2.antv.vision/zh/examples/case/sankey#sankey-card",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*p3cjT4RWDEkAAAAAAAAAAAAAARQnAQ",
+      "lang": "en"
+    },
     {
       "type": "F2",
       "title": "移动端横屏图",
