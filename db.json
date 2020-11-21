@@ -157,6 +157,20 @@
       "lang": "en"
     },
     {
+      "type": "G2",
+      "title": "指标转化桑基图",
+      "href": "https://g2.antv.vision/zh/examples/case/sankey#sankey-card",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*p3cjT4RWDEkAAAAAAAAAAAAAARQnAQ",
+      "lang": "zh"
+    },
+   {
+      "type": "G2",
+      "title": "Index Sankey Diagram",
+      "href": "https://g2.antv.vision/zh/examples/case/sankey#sankey-card",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*p3cjT4RWDEkAAAAAAAAAAAAAARQnAQ",
+      "lang": "en"
+    },
+    {
       "type": "F2",
       "title": "移动端横屏图",
       "href": "https://f2.antv.vision/zh/examples/creative/case#landscape",
