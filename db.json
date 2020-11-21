@@ -54,7 +54,7 @@
     {
       "type": "G6",
       "title": "Knowledge Tree Graph",
-      "href": "https://g6.antv.vision/en/examples/examples/case/knowledgeTreeGraph#index",
+      "href": "https://g6.antv.vision/zh/examples/case/knowledgeTreeGraph#index",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*2J5YTbvU5FoAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
@@ -131,29 +131,29 @@
     {
       "type": "G2Plot",
       "title": "指标卡趋势图",
-      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-charts#line-association/",
+      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#funnel/",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
     {
       "type": "G2Plot",
       "title": "Indicator Trend Diagram",
-      "href": "https://g2plot.antv.vision/en/examples/case/statistical-charts#line-association/",
+      "href": "https://g2plot.antv.vision/en/examples/case/statistical-scenario#funnel/",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
        {
       "type": "G2Plot",
       "title": "场景漏斗图",
-      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#funnel/",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*78oyRpUtBUQAAAAAAAAAAAAAARQnAQ",
+      "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#funnel",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*1hQ_Sqag82cAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
        {
       "type": "G2Plot",
       "title": "Funnel Scenario",
-      "href": "https://g2plot.antv.vision/en/examples/case/statistical-scenario#funnel/",
-      "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*78oyRpUtBUQAAAAAAAAAAAAAARQnAQ",
+      "href": "https://g2plot.antv.vision/en/examples/case/statistical-scenario#funnel",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*1hQ_Sqag82cAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
     {
