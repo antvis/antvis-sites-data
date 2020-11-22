@@ -1,6 +1,13 @@
 {
   "notifications": [
     {
+      "type": "新闻",
+      "title": "利业·立业 - AntV 与业务的故事",
+      "date": "2020.11.22",
+      "link": "https://www.yuque.com/antv/blog/2020story",
+      "lang": "zh"
+    },
+    {
       "type": "论坛",
       "title": "第十五届 D2 前端技术论坛·无界",
       "date": "2020.12.19",
@@ -8,24 +15,17 @@
       "lang": "zh"
     },
     {
-      "type": "招聘",
-      "title": "蚂蚁金服体验技术部招聘啦！",
-      "date": "2020.05.18",
-      "link": "https://www.yuque.com/uf44r1/wqrwsg/alwufg",
-      "lang": "zh"
+      "type": "News",
+      "title": "AVA 1.0 Your Chart Secretary",
+      "date": "2020.11.22",
+      "link": "https://www.yuque.com/antv/blog/2020story",
+      "lang": "en"
     },
     {
       "type": "Forum",
       "title": "The 15th D2 Frontend Technology Forum",
       "date": "2020.12.19",
       "link": "http://d2forum.alibaba-inc.com/",
-      "lang": "en"
-    },
-    {
-      "type": "Jobs",
-      "title": "蚂蚁金服体验技术部招聘啦！",
-      "date": "2020.05.18",
-      "link": "https://www.yuque.com/uf44r1/wqrwsg/alwufg",
       "lang": "en"
     }
   ],
