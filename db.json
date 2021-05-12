@@ -33,28 +33,28 @@
     {
       "type": "G6",
       "title": "决策树",
-      "href": "https://g6.antv.vision/zh/examples/case/decisionTree#index",
+      "href": "https://g6.antv.vision/zh/examples/case/customTree#decisionTree",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*8WF4SYI4b8wAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
     {
       "type": "G6",
       "title": "Decision Tree",
-      "href": "https://g6.antv.vision/en/examples/case/decisionTree#index",
+      "href": "https://g6.antv.vision/en/examples/case/customTree#decisionTree",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*8WF4SYI4b8wAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
     {
       "type": "G6",
       "title": "知识图谱树图",
-      "href": "https://g6.antv.vision/zh/examples/case/knowledgeTreeGraph#index",
+      "href": "https://g6.antv.vision/zh/examples/case/customTree#knowledgeTreeGraph",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*2J5YTbvU5FoAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
     {
       "type": "G6",
       "title": "Knowledge Tree Graph",
-      "href": "https://g6.antv.vision/zh/examples/case/knowledgeTreeGraph#index",
+      "href": "https://g6.antv.vision/zh/examples/case/customTree#knowledgeTreeGraph",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_f8c6a0/afts/img/A*2J5YTbvU5FoAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
