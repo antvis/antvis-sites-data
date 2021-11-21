@@ -142,14 +142,14 @@
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*kHHZQa-fpAQAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
-       {
+    {
       "type": "G2Plot",
       "title": "场景漏斗图",
       "href": "https://g2plot.antv.vision/zh/examples/case/statistical-scenario#funnel",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*1hQ_Sqag82cAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
-       {
+    {
       "type": "G2Plot",
       "title": "Funnel Scenario",
       "href": "https://g2plot.antv.vision/en/examples/case/statistical-scenario#funnel",
@@ -163,7 +163,7 @@
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_d314dd/afts/img/A*p3cjT4RWDEkAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
-   {
+    {
       "type": "G2",
       "title": "Index Sankey Diagram",
       "href": "https://g2.antv.vision/en/examples/case/sankey#sankey-card",
@@ -184,20 +184,6 @@
       "screenshot": "https://gw.alipayobjects.com/zos/finxbff/compress-tinypng/c794e375-f704-47ef-b264-3029e75e93d4.png",
       "lang": "en"
     },
-        {
-      "type": "S2",
-      "title": "KPI 趋势表",
-      "href": "https://s2.antv.vision/zh/examples/case/kpi-strategy#basic",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/BLitStN%24sR/196f5853-98cf-414f-af83-16b9c594c377.png",
-      "lang": "zh"
-    },
-    {
-      "type": "S2",
-      "title": "KPI StrategySheet",
-      "href": "https://s2.antv.vision/en/examples/case/kpi-strategy#basic",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/BLitStN%24sR/196f5853-98cf-414f-af83-16b9c594c377.png",
-      "lang": "en"
-    },
     {
       "type": "S2",
       "title": "分群下钻表",
@@ -210,48 +196,6 @@
       "title": "Group drill down sheet",
       "href": "https://s2.antv.vision/en/examples/case/proportion#group-drill-down",
       "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/RYy4GI8Y8d/demo.gif",
-      "lang": "en"
-    },
-    {
-      "type": "S2",
-      "title": "单人群占比表",
-      "href": "https://s2.antv.vision/zh/examples/case/proportion#single-population-proportion",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/clsZ0BSxpR/c315b0f0-03df-46e6-b470-7894c7fa5b17.png",
-      "lang": "zh"
-    },
-    {
-      "type": "S2",
-      "title": "Single population proportion Sheet",
-      "href": "https://s2.antv.vision/en/examples/case/proportion#single-population-proportion",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/clsZ0BSxpR/c315b0f0-03df-46e6-b470-7894c7fa5b17.png",
-      "lang": "en"
-    },
-    {
-      "type": "S2",
-      "title": "指标对比表",
-      "href": "https://s2.antv.vision/zh/examples/case/comparison#measure-comparison",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/Hp592db5za/60960a3d-f405-4474-a412-95721a21654d.png",
-      "lang": "zh"
-    },
-    {
-      "type": "S2",
-      "title": "Measure Comparison Sheet",
-      "href": "https://s2.antv.vision/en/examples/case/comparison#measure-comparison",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/Hp592db5za/60960a3d-f405-4474-a412-95721a21654d.png",
-      "lang": "en"
-    },
-    {
-      "type": "S2",
-      "title": "多人群对比表",
-      "href": "https://s2.antv.vision/zh/examples/case/comparison#multiple-people-comparison",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/GVz3yaFf5O/b57857b9-a307-474a-a418-c97f627311a1.png",
-      "lang": "zh"
-    },
-    {
-      "type": "S2",
-      "title": "Multiple People Comparison Sheet",
-      "href": "https://s2.antv.vision/en/examples/case/comparison#multiple-people-comparison",
-      "screenshot": "https://gw.alipayobjects.com/zos/antfincdn/GVz3yaFf5O/b57857b9-a307-474a-a418-c97f627311a1.png",
       "lang": "en"
     }
   ]
