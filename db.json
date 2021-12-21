@@ -2,29 +2,29 @@
   "notifications": [
     {
       "type": "论坛",
-      "title": "SEE Conf 2021 支付宝体验科技大会",
-      "date": "2021.01.09",
+      "title": "SEE Conf 2022 支付宝体验科技大会",
+      "date": "2022.01.08",
       "link": "https://seeconf.antfin.com/",
       "lang": "zh"
     },
     {
       "type": "论坛",
-      "title": "第十五届 D2 前端技术论坛·无界",
-      "date": "2020.12.19",
+      "title": "第十六届 D2 前端技术论坛·精心",
+      "date": "2021.12.18",
       "link": "http://d2forum.alibaba-inc.com/",
       "lang": "zh"
     },
     {
       "type": "Forum",
       "title": "Alipay Experience Technology Conference",
-      "date": "2021.01.09",
+      "date": "2022.01.08",
       "link": "https://seeconf.antfin.com/",
       "lang": "en"
     },
     {
       "type": "Forum",
-      "title": "The 15th D2 Frontend Technology Forum",
-      "date": "2020.12.19",
+      "title": "The 16th D2 Frontend Technology Forum",
+      "date": "2021.12.18",
       "link": "http://d2forum.alibaba-inc.com/",
       "lang": "en"
     }
