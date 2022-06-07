@@ -2,6 +2,13 @@
   "notifications": [
     {
       "type": "论坛",
+      "title": "AntV 芒种日 图新物：GraphInsight 发布",
+      "date": "2022.06.06",
+      "link": "https://github.com/antvis/GraphInsight",
+      "lang": "zh"
+    },
+    {
+      "type": "论坛",
       "title": "SEE Conf 2022 支付宝体验科技大会",
       "date": "2022.01.08",
       "link": "https://seeconf.antfin.com/",
@@ -13,6 +20,13 @@
       "date": "2021.12.18",
       "link": "http://d2forum.alibaba-inc.com/",
       "lang": "zh"
+    },
+    {
+      "type": "Forum",
+      "title": "AntV New Product Launch: GraphInsight",
+      "date": "2022.06.06",
+      "link": "https://github.com/antvis/GraphInsight",
+      "lang": "en"
     },
     {
       "type": "Forum",
@@ -30,6 +44,48 @@
     }
   ],
   "showCases": [
+    {
+      "type": "G6",
+      "title": "银行反洗钱",
+      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*eXL9T6xqPlUAAAAAAAAAAAAAARQnAQ",
+      "lang": "zh"
+    },
+    {
+      "type": "G6",
+      "title": "Bank Anti-Money Laundering",
+      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*eXL9T6xqPlUAAAAAAAAAAAAAARQnAQ",
+      "lang": "en"
+    },
+    {
+      "type": "G6",
+      "title": "企业风险图",
+      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*ot4nR6rXqOcAAAAAAAAAAAAAARQnAQ",
+      "lang": "zh"
+    },
+    {
+      "type": "G6",
+      "title": "Enterprise Risk Discovery",
+      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*ot4nR6rXqOcAAAAAAAAAAAAAARQnAQ",
+      "lang": "en"
+    },
+    {
+      "type": "G6",
+      "title": "网络安全溯源",
+      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*WAaxR4V5sWEAAAAAAAAAAAAAARQnAQ",
+      "lang": "zh"
+    },
+    {
+      "type": "G6",
+      "title": "Network security traceability",
+      "href": "https://graphinsight.antgroup.com/#/workspace?type=case",
+      "screenshot": "https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*WAaxR4V5sWEAAAAAAAAAAAAAARQnAQ",
+      "lang": "en"
+    },
     {
       "type": "G6",
       "title": "决策树",
