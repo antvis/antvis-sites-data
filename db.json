@@ -131,42 +131,42 @@
     {
       "type": "X6",
       "title": "DAG 图",
-      "href": "https://x6.antv.vision/apps/dag/",
+      "href": "https://x6.antv.vision/zh/examples/showcase/practices#dag",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*7padSZBBwPIAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
     {
       "type": "X6",
       "title": "DAG",
-      "href": "https://x6.antv.vision/apps/dag/",
+      "href": "https://x6.antv.vision/en/examples/showcase/practices#dag",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*7padSZBBwPIAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
     {
       "type": "X6",
       "title": "流程图",
-      "href": "https://x6.antv.vision/apps/draw/",
+      "href": "https://x6.antv.vision/zh/examples/showcase/practices#flowchart",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*VnR6T7EcIqkAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
     {
       "type": "X6",
       "title": "Flow Chart",
-      "href": "https://x6.antv.vision/apps/draw/",
+      "href": "https://x6.antv.vision/en/examples/showcase/practices#flowchart",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*VnR6T7EcIqkAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
     {
       "type": "X6",
       "title": "ER 图",
-      "href": "https://x6.antv.vision/apps/er/",
+      "href": "https://x6.antv.vision/zh/examples/showcase/practices#er",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*H724Sokj3FEAAAAAAAAAAAAAARQnAQ",
       "lang": "zh"
     },
     {
       "type": "X6",
       "title": "ER",
-      "href": "https://x6.antv.vision/apps/er/",
+      "href": "https://x6.antv.vision/en/examples/showcase/practices#er",
       "screenshot": "https://gw.alipayobjects.com/mdn/rms_a8a5bf/afts/img/A*H724Sokj3FEAAAAAAAAAAAAAARQnAQ",
       "lang": "en"
     },
